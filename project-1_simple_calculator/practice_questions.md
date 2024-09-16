@@ -1,4 +1,4 @@
-### Practice Programs for Python Concepts
+# Practice Programs for Python Concepts
 
 #### 1. **Variables and Data Types**
 - **Program 1:** Create variables to store your name, age, height, and whether you are a student or not. Print the values of all variables.

@@ -1,4 +1,4 @@
-### Python Notes: Variables, Data Types, Operators, Input/Output, Typecasting, and Conditional Statements
+# Python Notes: Variables, Data Types, Operators, Input/Output, Typecasting, and Conditional Statements
 
 #### 1. **Variables in Python**
 Variables are containers for storing data values. Python does not require declaring the type of variable explicitly; the interpreter automatically identifies the type based on the value assigned.

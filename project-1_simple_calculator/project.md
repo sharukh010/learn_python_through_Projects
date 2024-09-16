@@ -1,4 +1,4 @@
-### Explanation of the Python Code
+# Explanation of the Python Code
 
 #### Step-by-Step Explanation
 
