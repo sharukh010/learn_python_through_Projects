@@ -97,5 +97,3 @@
    Enter the value of b: 0
    Cannot divide with zero
    ```
-
-This code demonstrates the use of basic input handling, arithmetic operations, conditional statements, and the use of the `match` statement for decision-making in Python.
